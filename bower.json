@@ -1,14 +1,13 @@
 {
     "name": "bs3-simple-navigation",
     "description": "Simple and beautiful navigation for smaller screens. For use with Bootstrap v. 3.x.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "dependencies": {
         "jquery": "~2.*",
         "bootstrap": "~3.*",
         "fontawesome": "~4.*",
         "fastclick": "~1.*",
-        "bs3-sidebar": "~0.*",
-        "bs3-designer": "~0.*"
+        "bs3-sidebar": "~0.*"
     },
     "ignore": [
         "bower_components"

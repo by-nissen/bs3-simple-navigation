@@ -1,1 +1,1 @@
-Should be used alongside bs3-sidebar
+Repo no longer maintained.
